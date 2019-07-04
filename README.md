@@ -4,3 +4,4 @@ Trying to improve as a full stack developer and I figured I should do something 
 This is a coursera specialization pathway:
 Full Stack Web and Multiplatform Mobile App Development Specialization : https://www.coursera.org/specializations/full-stack-mobile-app-development
 
+Alright, time to see this on windows

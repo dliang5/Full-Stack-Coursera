@@ -38,7 +38,7 @@
     "has-value": "^1.0.0",
     "has-values": "^1.0.0",
     "hosted-git-info": "^2.7.1",
-    "http-proxy": "^1.15.2",
+    "http-proxy": "^1.18.1",
     "iconv-lite": "^0.4.24",
     "immutable": "^3.8.2",
     "indexof": "^0.0.1",
